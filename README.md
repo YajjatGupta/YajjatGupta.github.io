@@ -89,10 +89,16 @@ Actively seeking **Software Engineering Internships**, **Data Science Roles**, a
 
 ## 📜 Certifications
 
-- Data Structures & Algorithms – Infosys Springboard
+- Data Structures and Algorithms – Infosys Springboard
+- Dynamic Programming & Greedy Algorithms – Coursera
 - Operating Systems and You – Coursera
-- Databases & SQL for Data Science – Coursera
+- Databases and SQL for Data Science – Coursera
 - Automated Software Testing with Python – Udemy
+- Explore Machine Learning using Python – Infosys Springboard
+- Scientific Computing with Python – freeCodeCamp
+- Introduction to Bash – Microsoft
+- Kanban in Practice – Infosys Springboard
+
 
 ---
 

@@ -117,7 +117,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YajjatGupta&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YajjatGupta&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YajjatGupta&theme=tokyonight)
 
 </div>
 

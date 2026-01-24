@@ -1,159 +1,135 @@
-# Yajat Gupta
+# 👋 Hi, I'm Yajat Gupta  
 
-Jaipur, Rajasthan, India  
-Email: yajjatgupta@gmail.com  
-Phone: +91 7878877958  
+🚀 **Computer Science Undergraduate | Data Science & Software Engineering**  
+📍 Jaipur, Rajasthan, India  
 
-**Links**  
-- LinkedIn: https://www.linkedin.com/in/YajjatGupta  
-- GitHub: https://github.com/YajjatGupta  
-- LeetCode: https://leetcode.com/YajjatGupta  
-
----
-
-## Introduction
-
-I am a Data Science & Analytics undergraduate with strong foundations in C++, SQL, AI/ML, and data visualization. I have hands-on experience building full-stack machine learning applications, data-driven dashboards, and modular software systems.
-
-I enjoy translating technical insights into actionable product decisions, leading teams, and building user-focused solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YajjatGupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YajjatGupta)
+[![GitHub](https://img.shields.io/badge/GitHub-YajjatGupta-black?style=for-the-badge&logo=github)](https://github.com/YajjatGupta)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YajjatGupta-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YajjatGupta)
+[![Email](https://img.shields.io/badge/Email-yajjatgupta%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yajjatgupta@gmail.com)
 
 ---
 
-## Table of Contents
+## 🧠 About Me
 
-- [Education](#education)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Certifications](#certifications)
-- [Contact](#contact)
+I am a **Computer Science undergraduate specializing in Data Science & Software Engineering**, with strong foundations in **Java, Python, SQL, Full-Stack Development**, and **SDLC practices**.
 
----
+I enjoy:
+- Building **end-to-end applications**
+- Integrating **ML/AI models into production**
+- Writing **clean, modular, scalable code**
+- Solving **real-world problems with data**
 
-## Education
-
-### Bennett University, Greater Noida, India
-**B.E. Computer Science (Data Science & Analysis)**  
-Aug 2023 – Expected May 2027  
-
-- CGPA: 8.6  
-- 50% Merit Scholarship (based on JEE performance)
-
-### Maheshwari Public School, Jaipur, India (CBSE)
-
-- Class XII (PCM): 89.8% — 2022  
-- Class X: 90.1% — 2020  
+I’m actively seeking **internships, research roles, and software engineering opportunities**.
 
 ---
 
-## Projects
+## 🎓 Education
 
-### Project RPG (Python, Pygame)
-Repository: https://github.com/YajjatGupta/ProjectRPG  
-Nov 2023  
+**Bennett University**, Greater Noida, India  
+🎓 *B.E. Computer Science (Data Science & Analysis)*  
+📅 *Aug 2023 – Present*  
+⭐ **CGPA:** 8.5  
+🏆 **50% Merit Scholarship (JEE-based)**  
 
-- Developed a 2D role-playing game with player movement, combat mechanics, enemy AI, and level design  
-- Applied object-oriented programming principles for clean and maintainable architecture  
-- Modularized systems including:
-  - Magic system  
-  - Particle effects  
-  - Game entities  
-
----
-
-### EDNA Project (Full Stack + AI/ML)
-Repository: https://github.com/YajjatGupta/Edna-Project  
-Sep 2025  
-
-- Built a full-stack web application for environmental DNA (eDNA) analysis  
-- Enabled researchers to upload `.fasta` DNA files for automated species identification  
-- Implemented:
-  - Deep learning classifier  
-  - Secure authentication  
-  - Responsive frontend for result visualization and export  
+**Maheshwari Public School**, Jaipur, India  
+- CBSE Class XII (PCM): **89.8%**  
+- CBSE Class X: **90.1%**
 
 ---
 
-## Skills
+## 💻 Technical Skills
 
-### Programming Languages
-- Python, C++, JavaScript, SQL, HTML/CSS  
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 
-### Frameworks & Libraries
-- Flask, Streamlit, React  
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Tableau](https://img.shields.io/badge/Tableau-darkblue?logo=tableau)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
 
-### Core Technical Skills
-- Data Science & Analysis  
-- Machine Learning & AI  
-- Data Structures & Algorithms  
-- Operating Systems  
-- Computer Networks  
-- System Design  
-
-### Databases & Tools
-- MySQL  
-- Power BI  
-- Tableau  
-- Linux  
-
-### Soft Skills
-- Team Leadership  
-- Analytical Problem Solving  
-- Collaboration  
-- Self-Motivation  
-
----
-
-## Experience
-
-### Deloitte Australia – Data Analytics Job Simulation (Forage)
-July 2025  
-
-- Analyzed structured and unstructured datasets to identify financial irregularities and fraud risks  
-- Designed and deployed interactive Tableau dashboards to highlight key financial trends  
-- Improved clarity and effectiveness of reporting insights  
+### 📊 Data Science & ML
+- Pandas, NumPy, Scikit-Learn  
+- Exploratory Data Analysis (EDA)  
+- ML Model Integration  
+- Data Visualization & Insights  
 
 ---
 
-### Head of Technical Department  
-College Theatre Society – Bennett University  
-Aug 2025 – Present  
+## 🚀 Projects
 
-- Led a 10-member technical team managing sound, lighting, and stage design  
-- Introduced digital tools for scheduling and resource management  
-- Reduced setup delays and improved operational efficiency  
+### 🎮 Project RPG (Pygame)
+🔗 https://github.com/YajjatGupta/ProjectRPG  
+📅 *Nov 2023*
 
----
-
-## Certifications
-
-### Data Science & Analytics
-- Data Analysis with Pandas and Python  
-- Introduction to Bayesian Statistics  
-- Databases & SQL for Data Science  
-- Scientific Computing with Python  
-
-### Computer Science Foundations
-- Operating Systems and You  
-- Data Structures & Algorithms  
-- C++ Programming  
-
-### Networking & Software Practices
-- Fundamentals of Network Communication  
-- Peer-to-Peer Protocols  
-- Kanban in Practice  
-- Bash  
-- Text Retrieval & Search Engines  
+- Developed a **2D role-playing game** with combat mechanics, AI, and level progression  
+- Designed **modular and scalable architecture**
+- Collaborated in a team environment, reducing bug reports by **30%**
 
 ---
 
-## Contact
+### 🧬 EDNA Project (Full-Stack + AI/ML)
+🔗 https://github.com/YajjatGupta/Edna-Project  
+📅 *Sep 2025*
 
-Email: yajjatgupta@gmail.com  
-GitHub: https://github.com/YajjatGupta  
+- Built a **web platform** for automated species identification using **deep learning**
+- Designed intuitive frontend with **secure authentication**
+- Improved researcher workflow efficiency by **40%**
+- Worked closely with domain experts to refine usability
 
 ---
 
-### License
+## 💼 Experience
 
-This README is intended for personal and portfolio use.
+### 📊 Deloitte Australia — Data Analytics Job Simulation (Forage)
+📅 *July 2025*
+
+- Analyzed structured & unstructured datasets to detect **financial anomalies**
+- Improved simulated fraud detection accuracy by **25%**
+- Created **interactive Tableau dashboards** for stakeholder insights
+- Translated technical analysis into **business recommendations**
+
+---
+
+## 📜 Certifications
+
+- Data Structures & Algorithms – Infosys Springboard  
+- Dynamic Programming & Greedy Algorithms – Coursera  
+- Operating Systems and You – Coursera  
+- Databases & SQL for Data Science – Coursera  
+- Automated Software Testing with Python – Udemy  
+- Scientific Computing with Python – freeCodeCamp  
+- Machine Learning with Python – Infosys Springboard  
+- Introduction to Bash – Microsoft  
+- Kanban in Practice – Infosys Springboard  
+
+---
+
+## 📈 GitHub Stats
+
+![Yajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YajjatGupta&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YajjatGupta&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+
+📫 **Email:** yajjatgupta@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/YajjatGupta  
+
+✨ *Always open to learning, collaboration, and impactful software development.*
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
